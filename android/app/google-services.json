@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "881346239424",
+    "firebase_url": "https://yelloclass.firebaseio.com",
+    "project_id": "yelloclass",
+    "storage_bucket": "yelloclass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881346239424:android:48c090b9aeac9bdd634625",
+        "android_client_info": {
+          "package_name": "com.entrepreter.raw_video"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881346239424-6s46phls419a6niusm2f52tonf1hesfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.entrepreter.raw_video",
+            "certificate_hash": "5d97d49d1784f69e597fb9741a720bae12b7c275"
+          }
+        },
+        {
+          "client_id": "881346239424-chiqbn0qrq9e6a5vvi64b2sudfu9i4ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA62L2euoctNb8OmfJVfPLdalOh5nqlHBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881346239424-chiqbn0qrq9e6a5vvi64b2sudfu9i4ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
